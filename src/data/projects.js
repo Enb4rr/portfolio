@@ -26,7 +26,7 @@ export const gameDev = [
             result: 'The game shipped with fully responsive HUDs and shop UIs, a scalable UI pipeline adopted across the project, and reached a peak of 5600 concurrent players. Raptor Heist received a nomination at the Fortnite Game Awards. With newer technologies available, such as Scene Graph, all UI work in Raptor Heist could be updated and polished to allow for more flexibility and improved aesthetics',
             tech: ['UEFN', 'Verse', 'UI Programming', 'Real-time State Management', 'LiveOps'],
             gallery: getGallery('RaptorHeist', 7),
-            images: [getGallery('RaptorHeist', 7)[0], getGallery('RaptorHeist', 7)[1]],
+            images: [getGallery('RaptorHeist', 7)[0], getGallery('RaptorHeist', 6)[1]],
             video: null
         }
     },
