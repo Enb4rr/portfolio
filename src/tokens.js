@@ -1,0 +1,32 @@
+﻿export const tokens = {
+    game: {
+        bgPrimary: '#0D1117',
+        bgSurface: '#161B22',
+        bgSurfaceHover: '#1C2128',
+        accent: '#BF5FFF',
+        accentSecondary: '#39FF14',
+        accentDim: 'rgba(191, 95, 255, 0.08)',
+        accentGlow: 'rgba(191, 95, 255, 0.4)',
+        textPrimary: '#E6EDF3',
+        textSecondary: '#7D8590',
+        border: 'rgba(191, 95, 255, 0.12)',
+        borderHover: 'rgba(191, 95, 255, 0.35)',
+        fontDisplay: "'JetBrains Mono', monospace",
+        fontBody: "'JetBrains Mono', monospace",
+    },
+    software: {
+        bgPrimary: '#000000',
+        bgSurface: '#111111',
+        bgSurfaceHover: '#1A1A1A',
+        accent: '#F5F5F7',
+        accentSecondary: '#E8D5B7',
+        accentDim: 'rgba(255, 255, 255, 0.06)',
+        accentGlow: 'rgba(255, 255, 255, 0.15)',
+        textPrimary: '#F5F5F7',
+        textSecondary: '#86868B',
+        border: 'rgba(255, 255, 255, 0.08)',
+        borderHover: 'rgba(255, 255, 255, 0.2)',
+        fontDisplay: "'Fraunces', serif",
+        fontBody: "'Inter', sans-serif",
+    }
+}
